@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card {
+  @apply rounded-xl bg-white p-4 shadow-sm border border-slate-200;
+}
